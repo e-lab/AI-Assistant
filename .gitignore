@@ -1,2 +1,7 @@
 
 *.pyc
+src/tmp/indiana_trees_remeasured.csv
+src/tmp/indiana_plots.csv
+src/components/backend/tools/model_trainer.py
+src/.DS_Store
+.DS_Store
